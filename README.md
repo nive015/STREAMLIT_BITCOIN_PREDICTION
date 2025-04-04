@@ -62,6 +62,7 @@ You select a subset of features like:
 
 7. **Training a Machine Learning Model**
 You use **Lasso Regression** (a simple but interpretable model) to predict the closing price. Steps include:
+- Functions like window and lag has been used to find moving averages. 
 - Splitting the data into training and test sets
 - Training the model on historical data
 - At the end, the collab notebook is connected with Streamlit using local tunnel.
