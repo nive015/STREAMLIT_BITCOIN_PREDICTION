@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/novandraanugrah/bitcoin-historical-datasets-2018
 
 **Project Overview**
 
-This project analysis **Bitcoin dataset** using **Big Data tools**, specifically **PySpark**, to handle large-scale time-series financial data. The data spans from **2018 to 2025** in **15-minute intervals**, making it massive and ideal for big data analysis. You're also building a **machine learning model** to predict Bitcoin’s **opening, closing,high and low prices**.
+This project analysis **Bitcoin dataset** using **Big Data tools**, specifically **PySpark**, to handle large-scale time-series financial data. The data spans from **2018 to 2025** in **15-minute intervals**, making it massive and ideal for big data analysis. You're also building a **machine learning model** to predict Bitcoin’s **opening, closing, high and low prices of the next day**.
 
 **Step-by-Step Breakdown**
 
